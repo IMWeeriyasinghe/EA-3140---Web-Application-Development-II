@@ -6,6 +6,9 @@ composer create-project codeigniter4/appstarter EA3141
 Run web server > "php spark serve"
 
 
+Access Urls: http://localhost:8080/view_user
+             http://localhost:8080/add_user
+             http://localhost:8080/
 
 Project Structure
 
